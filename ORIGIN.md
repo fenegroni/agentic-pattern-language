@@ -1,6 +1,6 @@
 # How the Pattern-Authoring Skill Was Built
 
-A worked record of authoring [`SKILL.md`](SKILL.md) — a skill for writing skills as Alexandrian patterns — using the method it describes. The prompt and the response are reproduced verbatim. Nothing here is reconstructed after the fact.
+A worked record of authoring [`SKILL.md`](.claude/skills/pattern-authoring/SKILL.md) — a skill for writing skills as Alexandrian patterns — using the method it describes. The prompt and the response are reproduced verbatim. Nothing here is reconstructed after the fact.
 
 The interesting part is not the finished skill. It is that **four of the five adversarial probes changed it**, and two of those changes could not have been reached by rereading the draft. That is the claim the method makes about itself, and this is the record of it holding up once.
 
